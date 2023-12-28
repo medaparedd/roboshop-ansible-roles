@@ -1,1 +1,2 @@
-MONGODB_HOST: mongodb.daws74s.online # submit your host
+MONGODB_HOST: mongodb.daws74s.online
+CATALOGUE_HOST: catalogue.daws74s.online
